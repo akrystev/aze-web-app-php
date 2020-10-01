@@ -21,7 +21,7 @@
         <title>Top 10 cities in Bulgaria</title>
     </head>
     <body>
-        <h1>Top 10 cities in Bulgaria</h1>
+        <h3>Top 10 cities in Bulgaria</h3>
         <br />
         <table border="1">
 <?php
