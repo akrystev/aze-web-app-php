@@ -18,7 +18,7 @@
 ?>
 <html>
     <head>
-        <title>Top 10 cities in Bulgaria</title>
+        <title>Top cities in Bulgaria</title>
     </head>
     <body>
         <h3>Top cities in Bulgaria</h3>
